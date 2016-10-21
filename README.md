@@ -21,5 +21,6 @@ Timeline
 ===========================
 
 20/10/2016 - Public announcement
+
 21/10/2016 - Windows wallet release
 

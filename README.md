@@ -20,14 +20,14 @@ Stake maximum age: 1 month
 Timeline
 ===========================
 
-20/10/2016 - Public announcement
-21/10/2016 - Windows wallet release
-22/10/2016 - Linux wallet release
-24/10/2016 - Mac wallet release
-26/10/2016 - ICO start
-01/11/2016 - Block Explorer launched
-03/11/2016 - Website launched
-21/11/2016 - Service update
-22/11/2016 - Whitepaper released
-26/11/2016 - ICO end
-26/11/2016 - Source code available
+* 20/10/2016 - Public announcement
+* 21/10/2016 - Windows wallet release
+* 22/10/2016 - Linux wallet release
+* 24/10/2016 - Mac wallet release
+* 26/10/2016 - ICO start
+* 01/11/2016 - Block Explorer launched
+* 03/11/2016 - Website launched
+* 21/11/2016 - Service update
+* 22/11/2016 - Whitepaper released
+* 26/11/2016 - ICO end
+* 26/11/2016 - Source code available

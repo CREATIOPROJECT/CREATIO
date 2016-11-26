@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>OnlineWindowClass</class>
+ <widget class="QWidget" name="OnlineWindowClass">
+  <widget class="QWidget" name="widget_2" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>860</width>
+     <height>497</height>
+    </rect>
+   </property>
+     <widget class="QWidget" name="hide3" native="true">
+	  <widget class="QLabel" name="label">
+     <property name="geometry">
+      <rect>
+       <x>300</x>
+       <y>5</y>
+       <width>300</width>
+       <height>50</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>&lt;a style=&quot; text-decoration: none; color:#272727;&quot;&gt;&lt;img src=&quot;:/icons/onheader&quot;/&gt;&lt;br /&gt;Website&lt;/div&gt;&lt;/a&gt;</string>
+     </property>
+	 <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="margin">
+      <number>5</number>
+     </property>
+     <property name="openExternalLinks">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label">
+     <property name="geometry">
+      <rect>
+       <x>100</x>
+       <y>80</y>
+       <width>120</width>
+       <height>120</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>&lt;a href=&quot;&quot;&gt;&lt;div style=&quot; text-decoration: none; color:#272727;&quot;&gt;&lt;img src=&quot;:/icons/web&quot;/&gt;&lt;br /&gt;Website&lt;/div&gt;&lt;/a&gt;</string>
+     </property>
+	 <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="margin">
+      <number>5</number>
+     </property>
+     <property name="openExternalLinks">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_3">
+     <property name="geometry">
+      <rect>
+       <x>220</x>
+       <y>80</y>
+       <width>120</width>
+       <height>120</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>&lt;a href=&quot;&quot;&gt;&lt;div style=&quot; text-decoration: none; color:#272727;&quot;&gt;&lt;img src=&quot;:/icons/explorer&quot;/&gt;&lt;br /&gt;Explorer&lt;/div&gt;&lt;/a&gt;</string>
+     </property>
+	 <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="openExternalLinks">
+      <bool>true</bool>
+     </property>
+    </widget>
+     <widget class="QLabel" name="label_4">
+     <property name="geometry">
+      <rect>
+       <x>340</x>
+       <y>80</y>
+       <width>120</width>
+       <height>120</height>
+      </rect>
+     </property>
+     <property name="text">
+       <string>&lt;a href=&quot;https://github.com/CREATIOPROJECT/CREATIO&quot;&gt;&lt;div style=&quot; text-decoration: none; color:#272727;&quot;&gt;&lt;img src=&quot;:/icons/github&quot;/&gt;&lt;br /&gt;Github&lt;/div&gt;&lt;/a&gt;</string>
+     </property>
+	 <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="openExternalLinks">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_6">
+     <property name="geometry">
+      <rect>
+       <x>460</x>
+       <y>80</y>
+       <width>120</width>
+       <height>120</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>&lt;a href=&quot;https://bitcointalk.org/index.php?topic=1656340.0&quot;&gt;&lt;div style=&quot; text-decoration: none; color:#272727;&quot;&gt;&lt;img src=&quot;:/icons/bitcointalk&quot;/&gt;&lt;br /&gt;Bitcointalk&lt;/div&gt;&lt;/a&gt;</string>
+     </property>
+	 <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="openExternalLinks">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_7">
+     <property name="geometry">
+      <rect>
+       <x>580</x>
+       <y>80</y>
+       <width>120</width>
+       <height>120</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>&lt;a href=&quot;https://twitter.com/creatioteam&quot;&gt;&lt;div style=&quot; text-decoration: none; color:#272727;&quot;&gt;&lt;img src=&quot;:/icons/twitter&quot;/&gt;&lt;br /&gt;Twitter&lt;/div&gt;&lt;/a&gt;</string>
+     </property>
+	 <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="openExternalLinks">
+      <bool>true</bool>
+     </property>
+    </widget>   
+	    <widget class="QLabel" name="label_7">
+     <property name="geometry">
+      <rect>
+       <x>700</x>
+       <y>80</y>
+       <width>120</width>
+       <height>120</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>&lt;a href=&quot;&quot;&gt;&lt;div style=&quot; text-decoration: none; color:#272727;&quot;&gt;&lt;img src=&quot;:/icons/guide&quot;/&gt;&lt;br /&gt;Guide&lt;/div&gt;&lt;/a&gt;</string>
+     </property>
+	 <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="openExternalLinks">
+      <bool>true</bool>
+     </property>
+    </widget>  
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
